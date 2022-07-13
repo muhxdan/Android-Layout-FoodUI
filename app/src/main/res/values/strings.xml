@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyFoodApp</string>
+    <string name="text1">Dont wanna make you have a bad day</string>
+    <string name="text2">Our job is delivering a delicious food with fast , free delivery and easy.</string>
+    <string name="text3">Deliver to</string>
+    <string name="text4">Your Destination</string>
+    <string name="text5">Lets find your best \nfavorite food!</string>
+    <string name="text6">Special for you</string>
+    <string name="text7">Fried noodles with special chicken katsu</string>
+    <string name="text8">Buy Now</string>
+    <string name="text9">Popular</string>
+    <string name="text10">See All</string>
+    <string name="text11">See the most popular food on order</string>
+    <string name="text12">New Menu</string>
+    <string name="text13">Food Detail</string>
+    <string name="text14">Special Pizza</string>
+    <string name="text15">With tommato sauce</string>
+    <string name="text16">4.3 Ratings</string>
+    <string name="text17">960 Reviews</string>
+    <string name="text18">Detail &amp; Ingredient</string>
+    <string name="text19">Meat Lovers is filled with toppings of sliced ​​beef sausage, minced beef, beef burger, and chicken sausage. In one bite, you can taste a variety of processed meats that are many and dense. Especially the minced meat which still has fiber in it.</string>
+    <string name="text20">&#8226; Pepperoni</string>
+    <string name="text21">&#8226; Oregano</string>
+    <string name="textButton">Get Started</string>
+</resources>
